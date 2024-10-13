@@ -1,0 +1,12 @@
+.img{
+    width: 400px;
+    height: 400px;
+}
+.text{
+    color: white;
+    text-align: left;
+}
+
+body{
+    background-image:url(milky-way-starry-sky-night-sky-star-956999.jpeg);
+}
